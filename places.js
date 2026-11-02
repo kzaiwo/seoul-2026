@@ -4,11 +4,11 @@ window.PLACES = {
   // Day 1
   'Incheon International Airport': { g: 'Incheon International Airport', n: '인천국제공항' },
   'Hotel Skypark Myeongdong': { g: 'Hotel Skypark Myeongdong III', n: '호텔스카이파크 명동3호점' },
-  'Gyeongbokgung Palace': { g: 'Gyeongbokgung Palace', n: '경복궁' },
-  'Bukchon Hanok Village': { g: 'Bukchon Hanok Village', n: '북촌한옥마을' },
+  'Gyeongbokgung Palace': { g: 'Gyeongbokgung Palace', n: 'Gyeongbokgung Palace' },
+  'Bukchon Hanok Village': { g: 'Bukchon Hanok Village', n: 'Bukchon Hanok Village' },
   'Tosokchon Samgyetang': { g: 'Tosokchon Samgyetang Seoul', n: '토속촌삼계탕' },
-  'Gwanghwamun Square': { g: 'Gwanghwamun Square', n: '광화문광장' },
-  'N Seoul Tower': { g: 'N Seoul Tower', n: 'N서울타워' },
+  'Gwanghwamun Square': { g: 'Gwanghwamun Square', n: 'Gwanghwamun Gate' },
+  'N Seoul Tower': { g: 'N Seoul Tower', n: 'N Seoul Tower' },
   'Myeongdong Kyoja': { g: 'Myeongdong Kyoja Main Store', n: '명동교자 본점' },
   // Day 2
   'Seokchon Lake': { g: 'Seokchon Lake', n: '석촌호수' },
